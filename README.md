@@ -8,5 +8,6 @@ Este es un blog creado para el [curso de Git y Github](https://platzi.com/cursos
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos
 * Creado por CorpusBrian
+* Incluye ejemplos en Window, Linux y Mac
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [**ve al curso**](https://platzi.com/cursos/git-github/ "ve al curso")
