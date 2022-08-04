@@ -7,5 +7,6 @@ Este es un blog creado para el [curso de Git y Github](https://platzi.com/cursos
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos
+* Creado por CorpusBrian
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [**ve al curso**](https://platzi.com/cursos/git-github/ "ve al curso")
